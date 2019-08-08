@@ -1,5 +1,3 @@
 (function($){
-	$(function() {
-		
-	});
+	var privateVariable = "";
 })(jQuery);
